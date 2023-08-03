@@ -1,0 +1,62 @@
+ <svg
+      id="Layer_1"
+      version="1.1"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 500 500"
+      style="enable-background: new 0 0 500 500"
+      xml:space="preserve"
+    >
+      <polygon
+        id="stroke1"
+        class="st"
+        points="414.5,381.8 75.7,185.8 75.7,376.6 53.2,363 53.2,146.7 437,369 "
+      />
+      <polygon
+        id="stroke2"
+        class="st"
+        points="446.8,352.5 62.2,131 84.8,117.4 424.3,313.5 424.3,123.4 446.8,136.2 "
+      />
+      <polygon
+        id="stroke3"
+        class="st0"
+        points="231.2,297.7 94.5,376.6 94.5,218.8 116.3,231.6 116.3,337.5 208.7,284.2 "
+      />
+      <polygon
+        id="stroke4"
+        class="st0"
+        points="103.5,106.9 250,22.8 395.7,106.9 373.2,119.7 250,48.3 126.1,119.7 "
+      />
+      <polygon
+        id="stroke5"
+        class="st0"
+        points="395.7,392.3 250,477.2 103.5,392.3 126.1,379.6 250,450.9 373.2,379.6 "
+      />
+      <polygon
+        id="stroke6"
+        class="st0"
+        points="189.9,273.7 135.1,305.2 135.1,278.9 167.4,260.9 "
+      />
+      <polygon
+        id="stroke7"
+        class="st0"
+        points="144.9,131 250,70.1 354.4,131 331.9,143.7 250,96.4 167.4,143.7 "
+      />
+      <polygon
+        id="stroke8"
+        class="st0"
+        points="354.4,368.3 250,429.1 144.9,368.3 167.4,355.5 250,402.9 331.9,355.5 "
+      />
+      <polygon
+        id="stroke9"
+        class="st0"
+        points="268.8,202.3 405.5,123.4 405.5,281.2 382.9,268.4 382.9,161.8 291.3,215.1 "
+      />
+      <polygon
+        id="stroke10"
+        class="st0"
+        points="310.1,226.3 364.2,194.8 364.2,220.3 331.9,239.1 "
+      />
+    </svg>

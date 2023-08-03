@@ -1,0 +1,49 @@
+{
+    "name": "notfoundnl/siteboss-static",
+    "description": "Static build of the SiteBoss framework UI",
+    "keywords": [
+        "NotFound",
+        "laravel",
+        "siteboss-static"
+    ],
+    "homepage": "https://github.com/notfoundnl/siteboss-static",
+    "license": "AGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "NotFound Digital Creativity",
+            "email": "support@siteboss.nl",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "spatie/laravel-package-tools": "^1.14.0"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "NotFound\\SitebossStatic\\": "src/"
+        },
+        "files": []
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    },
+    "scripts": {
+        "post-update-cmd": [
+            "@php artisan vendor:publish --tag=laravel-assets --ansi --force"
+        ]
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {}
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "NotFound\\SitebossStatic\\SitebossStaticServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

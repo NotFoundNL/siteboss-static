@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[63],{786:function(n,t,e){"use strict";e.r(t);var l={props:["value"],data:function(){return{}}},r=e(63),component=Object(r.a)(l,(function(){var n=this,t=n._self._c;return t("div",[t("a",{attrs:{href:"mailto:"+n.value}},[n._v(n._s(n.value))])])}),[],!1,null,null,null);t.default=component.exports}}]);

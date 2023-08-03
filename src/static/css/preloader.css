@@ -1,0 +1,44 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#sb-preload {
+  background: linear-gradient(#bbb, #fff, #fff, #bbb);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+}
+
+#sb-preload img {
+  height: 30%;
+  max-width: 60%;
+  max-height: 7rem;
+  width: 20rem;
+  transition: opacity 0.1s ease-in-out;
+  animation: sk-circleBounceDelay 1.2s infinite ease-in-out both;
+}
+
+#sb-preload h1 {
+  padding-top: 2rem;
+  font-size: 1.5rem;
+  max-height: 30%;
+  max-width: 30%;
+}
+
+@keyframes sk-circleBounceDelay {
+
+  0%,
+  80%,
+  100% {
+    opacity: 0;
+  }
+
+  40% {
+    opacity: 1;
+  }
+}
